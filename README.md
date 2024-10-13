@@ -1,8 +1,4 @@
-### LetzBinge - Web based Realtime Media Player
-
-Web application enabling remote users to connect and watch local media files together in real-time synchronisation.
-
-Try here - http://letzbinge.eu-west-2.elasticbeanstalk.com/
+### watchMovieTogether
 
 **Client-Side** - React and Bootstrap
 
@@ -10,7 +6,6 @@ Try here - http://letzbinge.eu-west-2.elasticbeanstalk.com/
 
 **Communication and Synchronisation** - WebRTC and WebSockets
 
-**Build** - Maven
 
 ---
 
